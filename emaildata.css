@@ -1,0 +1,21 @@
+body {
+            background-color: #eff5f5;
+            padding-left: 2%;
+        }
+.p{
+      font-family:cursive;
+      font-size:medium;
+        }
+  h2 {
+    border: 3px; 
+    border-radius: 3cm;
+    margin:10px;
+    line-height: 67%;
+
+        }
+#LIST {
+       font-size: medium;
+       font-family: 'Times New Roman', Times, serif;
+       background-color:rgba(131,131,131,.09) ;
+}
+    
